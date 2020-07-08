@@ -3,7 +3,8 @@
 
 # TEAM
 
-    Jason Taylor -- jason@git.taining -- @awesomejt
+	Jason Taylor -- jason@git.training -- @awesomejt
+	Pierre Dupont -- pierre@git.training -- @awesomepd 
 
 # THANKS
 
